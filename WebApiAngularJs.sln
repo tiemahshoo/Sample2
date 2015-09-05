@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiService", "WebApiService\WebApiService.csproj", "{A69F49BD-D5E8-4967-8172-2E32E84CBDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsClient", "AngularJsClient\AngularJsClient.csproj", "{8C852211-F9D1-4164-BBFE-EC8831C38E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiService.Data", "WebApiService.Data\WebApiService.Data.csproj", "{9C3C32CD-42C5-40E5-A82F-7C2BD957485C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiService.Data.Model", "WebApiService.Data.Model\WebApiService.Data.Model.csproj", "{250727C6-4D47-4BCD-88FC-D49D3EB1FA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69F49BD-D5E8-4967-8172-2E32E84CBDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69F49BD-D5E8-4967-8172-2E32E84CBDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69F49BD-D5E8-4967-8172-2E32E84CBDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69F49BD-D5E8-4967-8172-2E32E84CBDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C852211-F9D1-4164-BBFE-EC8831C38E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C852211-F9D1-4164-BBFE-EC8831C38E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C852211-F9D1-4164-BBFE-EC8831C38E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C852211-F9D1-4164-BBFE-EC8831C38E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3C32CD-42C5-40E5-A82F-7C2BD957485C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3C32CD-42C5-40E5-A82F-7C2BD957485C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3C32CD-42C5-40E5-A82F-7C2BD957485C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3C32CD-42C5-40E5-A82F-7C2BD957485C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250727C6-4D47-4BCD-88FC-D49D3EB1FA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250727C6-4D47-4BCD-88FC-D49D3EB1FA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250727C6-4D47-4BCD-88FC-D49D3EB1FA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250727C6-4D47-4BCD-88FC-D49D3EB1FA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
